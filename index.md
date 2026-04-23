@@ -1,6 +1,6 @@
 ---
 title: tessl8
-layout: tessl8
+layout: home
 ---
 
 tessl8
