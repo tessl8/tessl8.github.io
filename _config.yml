@@ -1,6 +1,6 @@
 title: tessl8
+logo: logo.png
 description: tessl8
-theme: just-the-docs
-
+show_downloads: false
+theme: jekyll-theme-minimal
 url: https://tessl8.com
-
